@@ -1,0 +1,30 @@
+[submodule "elektronica-website"]
+	path = elektronica-website
+	url = git@github.com:LambdaIITH/elektronica-website.git
+[submodule "robotix-website"]
+	path = robotix-website
+	url = git@github.com:LambdaIITH/robotix-website.git
+[submodule "torque-website"]
+	path = torque-website
+	url = git@github.com:LambdaIITH/torque-website.git
+[submodule "glitch-website"]
+	path = glitch-website
+	url = git@github.com:LambdaIITH/glitch-website.git
+[submodule "cepheid-website"]
+	path = cepheid-website
+	url = git@github.com:LambdaIITH/cepheid-website.git
+[submodule "prakriti-website"]
+	path = prakriti-website
+	url = git@github.com:LambdaIITH/prakriti-website.git
+[submodule "infero-website"]
+	path = infero-website
+	url = git@github.com:LambdaIITH/infero-website.git
+[submodule "epoch-website"]
+	path = epoch-website
+	url = git@github.com:LambdaIITH/epoch-website.git
+[submodule "aero-website"]
+	path = aero-website
+	url = git@github.com:LambdaIITH/aero-website.git
+[submodule "web_deploy"]
+	path = web_deploy
+	url = git@github.com:LambdaIITH/web_deploy.git
