@@ -32,7 +32,7 @@ Here are the websites included in this repository:
 
 6. **Infero Website**
    - **Repo**: [infero-website](https://github.com/LambdaIITH/infero-website.git)
-   - **URL**: [https://inferoiith.netlify.app](https://inferoiith.netlify.app)
+   - **URL**: [https://infero.netlify.app](https://inferoiith.netlify.app)
 
 7. **Prakriti Website**
    - **Repo**: [prakriti-website](https://github.com/LambdaIITH/prakriti-website.git)
